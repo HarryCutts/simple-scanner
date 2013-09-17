@@ -1,4 +1,4 @@
-A Python 2.7 script for Linux which scans QR codes and types their contents into the current window, mimicing a hardware barcode scanner. Requires the zbar and OpenCV Python modules, and the `xte` command (contained in the xautomation package).
+A Python 2.7 script for Linux which scans QR codes and types their contents into the current window, mimicking a hardware barcode scanner. Requires the zbar and OpenCV Python modules, and the `xte` command (contained in the xautomation package).
 
 Usage
 -----
